@@ -1,1 +1,1 @@
-print("lets learn git command with suraj")
+print("lets learn some git command which helps you in DevOps")
